@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxClicking", "BoxClicking\BoxClicking\BoxClicking.csproj", "{406D93DE-DA3A-40F6-968F-AA0988F92323}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BoxClickingContent", "BoxClicking\BoxClickingContent\BoxClickingContent.contentproj", "{B0997782-453B-4DAC-BAFD-F9115964CE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406D93DE-DA3A-40F6-968F-AA0988F92323}.Debug|x86.ActiveCfg = Debug|x86
+		{406D93DE-DA3A-40F6-968F-AA0988F92323}.Debug|x86.Build.0 = Debug|x86
+		{406D93DE-DA3A-40F6-968F-AA0988F92323}.Release|x86.ActiveCfg = Release|x86
+		{406D93DE-DA3A-40F6-968F-AA0988F92323}.Release|x86.Build.0 = Release|x86
+		{B0997782-453B-4DAC-BAFD-F9115964CE30}.Debug|x86.ActiveCfg = Debug|x86
+		{B0997782-453B-4DAC-BAFD-F9115964CE30}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

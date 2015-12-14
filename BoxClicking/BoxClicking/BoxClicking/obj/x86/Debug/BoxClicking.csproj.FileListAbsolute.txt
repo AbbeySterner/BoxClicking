@@ -1,0 +1,7 @@
+C:\Users\eahscs\Documents\GitHub\BoxClicking\BoxClicking\BoxClicking\BoxClicking\obj\x86\Debug\BoxClicking.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\BoxClicking\BoxClicking\BoxClicking\BoxClicking\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eahscs\Documents\GitHub\BoxClicking\BoxClicking\BoxClicking\BoxClicking\bin\x86\Debug\Content\SQUARE.xnb
+C:\Users\eahscs\Documents\GitHub\BoxClicking\BoxClicking\BoxClicking\BoxClicking\bin\x86\Debug\BoxClicking.exe
+C:\Users\eahscs\Documents\GitHub\BoxClicking\BoxClicking\BoxClicking\BoxClicking\bin\x86\Debug\BoxClicking.pdb
+C:\Users\eahscs\Documents\GitHub\BoxClicking\BoxClicking\BoxClicking\BoxClicking\obj\x86\Debug\BoxClicking.exe
+C:\Users\eahscs\Documents\GitHub\BoxClicking\BoxClicking\BoxClicking\BoxClicking\obj\x86\Debug\BoxClicking.pdb
